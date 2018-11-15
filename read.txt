@@ -1,0 +1,25 @@
+	
+1、配置图层服务地址；
+
+	瑞安临时\cfg\01_baseLine\NJ_DGHY\LeftMenu\DataQuery\spxm_live.json
+        queries>选址>url
+
+
+
+2、地图config.json 位置：
+	瑞安临时\cfg\01_baseLine\config.json
+
+
+
+
+3、附件目录配置：瑞安临时\cfg\01_baseLine\NJ_DGHY\AppendixDir
+
+	requestUrl: 生成目录结构soe地址，
+	requestrooturl: 服务器里附件文件夹绝对路径，每个斜杠打两次，
+	openrooturl: 发布的附件文件夹地址
+
+4、底图切换 
+
+	瑞安临时\cfg\01_baseLine\mapTypeSwitcher\config.json
+
+
